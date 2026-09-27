@@ -1,0 +1,6 @@
+{
+  "name": "GharSense - Smart IoT Utility & Leak Monitoring",
+  "description": "Smart utility, ultrasonic water tank leak monitoring, and automated pump cutoff system built for Indian households and housing societies (RWAs/CHSs).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
